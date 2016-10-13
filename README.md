@@ -47,6 +47,3 @@ Chú thích[^1] chú thích[^2].
 
 - [^1]: chú thích 1 
 - [^2]: chú thích 2
-Tài Liệu Tham Khảo
-Markdown
-Markdown guide
